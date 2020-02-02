@@ -15,7 +15,7 @@
 data_column = 18; % 
 
 
-%% Associa valore composizione isotopica del vapore ad una determinata
+%% Merge isotopic composition of WV to back trajectory structure
 % Revision 1 31/10/2018
 load('btrj_120h_test.mat')
 
